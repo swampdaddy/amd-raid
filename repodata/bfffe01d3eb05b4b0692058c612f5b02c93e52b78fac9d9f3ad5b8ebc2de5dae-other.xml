@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<otherdata xmlns="http://linux.duke.edu/metadata/other" packages="1">
+<package pkgid="33ad9a8c300ac8387f854cd7175505de6ba8ca1c9da26dcc4810e8477a4c4dcb" name="kmod-rcraid" arch="x86_64">
+  <version epoch="0" ver="9.3.0" rel="4.18.0.305.el8.x86_64"/>
+  <changelog author="William Steyer &lt;wsteyer@dothill.com&gt;" date="1331899200">- Create RAIDCore Driver Update package.</changelog>
+</package>
+</otherdata>
